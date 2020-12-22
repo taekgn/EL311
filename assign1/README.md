@@ -1,4 +1,4 @@
-# Arduino IDE/Programming
+# EL311 Arduino IDE/Programming
 
 |Device|Type|Channel|
 |------|----|-------|
