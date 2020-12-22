@@ -1,1 +1,1 @@
-# EL311 RPM meter with a magnetic sensor
+# EL311 Arduino Uno based RPM meter with a magnetic sensor
