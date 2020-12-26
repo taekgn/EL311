@@ -1,0 +1,18 @@
+Partlist
+
+Exported from tj208 EL311.sch at 12/11/2019 12:10 PM
+
+EAGLE Version 9.5.2 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device       Package  Library  Sheet
+
+IC1      LM358N         LM358N       DIL08    linear   1
+JP1                     PINHD-1X1    1X01     pinhead  1
+JP3                     PINHD-1X1    1X01     pinhead  1
+JP4                     PINHD-1X1    1X01     pinhead  1
+JP5                     PINHD-1X1    1X01     pinhead  1
+JP6                     PINHD-1X1    1X01     pinhead  1
+R1       100K           R-EU_0207/10 0207/10  rcl      1
+R2       10K            R-EU_0207/10 0207/10  rcl      1
